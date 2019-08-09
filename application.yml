@@ -1,1 +1,3 @@
-profile:profile-default
+spring:
+  application:
+    name:config-profile
